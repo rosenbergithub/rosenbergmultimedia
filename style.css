@@ -31,8 +31,8 @@ body {background-color: #B9FFA9}
 	text-align: top;
 }
 
-#assignmentphoto {
-	width: 200px;
-	height: 200px;
+.assignmentphoto {
 	display: inline;
+	height: 200px;
+	width: 200px;
 }
