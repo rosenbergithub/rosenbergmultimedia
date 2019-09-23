@@ -1,0 +1,38 @@
+body {background-color: #B9FFA9}
+
+#photo1 {
+	width: 800px;
+	height: 600px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 100%;
+}
+
+.assignmentrow {
+	background-color: white;
+	/* margin is where you set distance between divs */
+	margin: 5%;
+	padding: 20px;
+}
+
+.maintext {
+	font-size: 20px;
+	font-weight: 800;
+	width: 70%;
+	display: inline;
+	vertical-align: top;
+}
+
+.blurbtext {
+	font-family: sans-serif;
+	width: 70%;
+	margin: 20px;
+	text-align: top;
+}
+
+#assignmentphoto {
+	width: 200px;
+	height: 200px;
+	display: inline;
+}
