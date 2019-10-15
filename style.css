@@ -1,38 +1,45 @@
 body {background-color: #B9FFA9}
 
-#photo1 {
-	width: 800px;
-	height: 600px;
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 100%;
+.intro {border-style: solid;}
+
+
+#photo1 {display: inline;
+	height: 800px;
+	width: 1420px;
 }
 
-.assignmentrow {
-	background-color: white;
-	/* margin is where you set distance between divs */
-	margin: 5%;
+.assignment {border-style: solid;
+	margin: 2%;
 	padding: 20px;
 }
 
-.maintext {
-	font-size: 20px;
-	font-weight: 800;
-	width: 70%;
+.text2 {font-size: 20px;
 	display: inline;
 	vertical-align: top;
 }
 
-.blurbtext {
-	font-family: sans-serif;
-	width: 70%;
-	margin: 20px;
-	text-align: top;
-}
-
-.assignmentphoto {
-	display: inline;
+#photo2 {display: inline;
 	height: 200px;
 	width: 200px;
+	float: left;
+	padding: 1%;
 }
+
+#photo3 {display: inline;
+	height: 200px;
+	width: 200px;
+	float: left;
+	padding: 1%;
+}
+
+#photo4 {display: inline;
+	height: 200px;
+	width: 200px;
+	float: left;
+	padding: 1%;
+}
+
+.outro {font-size: 20px;
+	text-align: center;
+}
+

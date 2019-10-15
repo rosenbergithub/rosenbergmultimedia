@@ -1,0 +1,39 @@
+body {background-color: #D9EEFF}
+
+h1 {font-size: 50px;
+	text-align: center;
+}
+
+.intro {margin-left: 200px;
+	margin-right: 200px;
+	padding: 20px;
+	border-style: solid;
+	border-radius: 20px;
+}
+
+#text1 {font-size: 20px;
+	vertical-align: top;
+	text-align: center;
+}
+
+.icon {border-style: solid;
+	margin: 2%;
+	margin-left: 400px;
+	margin-right: 400px;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.text2 {font-size: 20px;
+	display: inline;
+	vertical-align: top;
+}
+
+#text3 {font-size: 15px;
+	text-align: center;
+}
+
+#tree {float: left;}
+#trash {float: left;}
+#people {float: left;}
+#mail {float: left;}
